@@ -1,0 +1,13 @@
+{
+  "name": "ProgConfig",
+  "keywords": "properties, configuration, flash, webserver, factory, settings",
+  "description": "Arduino flash based program configuration with factory reset ready for webserver config page",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jopsi/ProgConfig.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
